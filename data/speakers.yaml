@@ -25,7 +25,7 @@ b:
   web: https://susan.su.domains
 c:
   nom: James Sharpe
-  pic: JamesSharpe.jpeg
+  pic: JamesSharpe.jpg
   pos: Group Leader \& Head of Outstation, EMBL Barcelona, Spain
   txt: "James Sharpe is currently head of EMBL Barcelona and principal
   investigator of the group on Multicellular Systems Biology. The goal of
@@ -39,6 +39,23 @@ c:
   to understand one example of organogenesis – vertebrate limb development."
   web: https://www.embl.org/groups/sharpe
 d:
+  nom: Noelia Ferruz
+  pic: NoeliaFerruz.jpg
+  pos: Group Leader, CRG, Barcelona, Spain
+  txt: "Noelia Ferruz leads the AI for protein design research group at the
+  Centre for Genomic Regulation (CRG), in Barcelona. Using deep unsupervised
+  learning, Noelia's group develops computational and experimental approaches
+  to understand and design protein functions. She obtained her Ph.D. from
+  Pompeu Fabra University, Barcelona, where she investigated the use of machine
+  learning techniques for molecular simulations. After working for a short
+  period in industry (Acellera Labs in Barcelona and Pfizer in Boston), she
+  joined the University of Bayreuth, Germany, as a postdoctoral researcher,
+  developing AI generative models for protein design. Since 2023, she leads her
+  own research group, first at the Institute of Molecular Biology in Barcelona,
+  and now at the CRG. On 2022 she was awarded the L'Oréal-UNESCO Prize for
+  Women in Science, and on 2024 an ERC Starting Grant."
+  web: https://www.aiproteindesign.com
+e:
   nom: Jacques Serizay
   pic: JacquesSerizay.png
   pos: Postdoctoral Fellow, Institut Pasteur, Paris, France
